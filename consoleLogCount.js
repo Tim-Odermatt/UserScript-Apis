@@ -1,5 +1,5 @@
 function ö(){
-  var consoleLogCount;
+  var consoleLogCount = 0;
   consoleLogCount = consoleLogCount++;
   console.log(consoleLogCount);
 }
